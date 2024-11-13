@@ -1,0 +1,3 @@
+escreve o comando touch .gitignore no git
+no gerenciador digitamos o nome dos arquivo/pastas que serão ignoradas dentro do arquivo .gitignore criado com "/" na frente(caso for uma pasta a ser add,sendo um arquivo de texto,basta pôr o .txt ou o que o git der de comando)de cada um deles
+por último, é só add e dar um push para subir na nuvem
