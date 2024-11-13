@@ -1,0 +1,14 @@
+git status (exibi o código local/o que deve ser adicionado/o que ainda não foi add)
+
+git add . (adiciona tudo ao código local)
+
+git reflog (exibi versões do código local)
+
+git reset --hard ID (seleciona a versão do código que deseja retornar)
+
+git commit -m "MENSAGEM A SER EXIBIDA" (commitar/atualizar o código)
+
+git remote add origin URL (linkar o código ao servidor(GitHub))
+
+
+
