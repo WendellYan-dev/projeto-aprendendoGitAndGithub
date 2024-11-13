@@ -1,0 +1,7 @@
+git branch (exibe as branches já criadas)
+
+git branch nomeDaBranch (criar uma branch)
+
+git checkout nomeDaBranch (selecionar uma branch)
+
+git branch -d nomeDaBranch (deletar branch)
