@@ -14,5 +14,7 @@ git merge outraBranch (mesclar outras branch á principal)
 
 git merge --abort (retornar o processo de "mesclar")
 
+*código teste a ser validado na branch principal*
+
 
 
