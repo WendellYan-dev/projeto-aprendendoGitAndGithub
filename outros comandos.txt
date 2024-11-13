@@ -5,3 +5,14 @@ git branch nomeDaBranch (criar uma branch)
 git checkout nomeDaBranch (selecionar uma branch)
 
 git branch -d nomeDaBranch (deletar branch)
+
+git pull (atualiza o código local da branch para versão mais atual)
+
+git checkout -b nomeDaBranch (criar uma branch baseada na branch principal(atual))
+
+git merge outraBranch (mesclar outras branch á principal)
+
+git merge --abort (retornar o processo de "mesclar")
+
+
+
